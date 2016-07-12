@@ -1,0 +1,8 @@
+# python
+# -*- coding: utf-8 -*-
+
+n1 = 255
+n2 = 1000
+print(hex(n1),hex(n2))
+
+print('n1=%s,n2=%s' % (hex(n1),hex(n2)))
